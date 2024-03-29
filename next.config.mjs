@@ -1,5 +1,5 @@
 // Name of our GitHub repository
-const GITHUB_REPO_NAME = 'github-actions-test';
+const GITHUB_REPO_NAME = 'github-actions-workflow';
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
